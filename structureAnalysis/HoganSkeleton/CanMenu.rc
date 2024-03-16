@@ -1,0 +1,13 @@
+/*MENU RESOURCE CODED BY JUNSATO.*/
+#include "canhead.h"
+
+CANMENU MENU
+{
+  POPUP "APPLICATION"
+  {
+    MENUITEM "END",IDM_END
+  }
+  MENUITEM "HELP", IDM_HELP
+}
+
+
