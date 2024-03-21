@@ -1,2 +1,2 @@
 # structureAnalysis
-architecture Structure software
+architecture Structure 
